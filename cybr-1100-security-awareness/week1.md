@@ -9,5 +9,6 @@
  
 **Reflection:**    
  I learned about how much I know about computer security from our netacad knowlege check. It matters because I'll know how much I need to improve on and learn more about in class. In module one of our security awareness, I learned more about security and being more aware about it can help me protect my personal devices and data.
+
 **AI Use Note:**  
 I did not use AI.
