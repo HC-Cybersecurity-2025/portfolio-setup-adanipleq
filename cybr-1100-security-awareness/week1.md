@@ -12,3 +12,16 @@
 
 **AI Use Note:**  
 I did not use AI.
+
+# Case project 1-4
+Lab 1-4 
+
+**Total # of accounts pwned**-  15.10B 
+ 
+**Largest breaches**: Collection #1 - 772.9M, verificationsio - 763.1M, Onliner Spambot- 711.5M
+
+
+**Have I been pwned?** Yes, Hot Topic had a data breach in October of 2024 and my account was included in it! My Thankfully, it doesn’t mention my password, but I changed it just in case.
+
+**What are your feelings now that you know about your compromised data? Does this inspire you to take even greater security protections?**
+I feel better knowing that I have knowledge of my data being leaked and being able to change my password! Yes, it makes me want to change all of my passwords and be more aware about who and what I give my data to.
