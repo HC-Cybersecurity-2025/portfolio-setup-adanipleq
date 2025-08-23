@@ -13,3 +13,10 @@
 **AI Use Note:**  
 I did not use AI.
 
+**CASE PROJECT 1-3 Sources of Security information**
+Listed below is my table containing advantages, disadvantages, examples, and rating sources of security information.
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
