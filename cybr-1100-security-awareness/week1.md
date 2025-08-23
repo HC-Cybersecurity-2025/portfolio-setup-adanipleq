@@ -2,7 +2,7 @@
 # Week 1 – Introduction to Security Awareness
  
 **Description:**   
- We covered Module 1 for Netacad and created our own github pages and portfolios. We figured out how to use the AI bot SAGE and wWe learned about the CIA triad, difficulties in preventing attacks, why cybersecurity is important, how to identify threat actors, and comphrehensive cybersecurity stratetgy.   
+ We covered Module 1 for Netacad and created our own github pages and portfolios. We figured out how to use the AI bot SAGE and we learned about the CIA triad, difficulties in preventing attacks, why cybersecurity is important, how to identify threat actors, and comphrehensive cybersecurity stratetgy.   
 **Artifacts:**  
 - Screenshot of MFA setup  
 - Screenshot of GitHub Pages live site  
@@ -19,5 +19,5 @@ Listed below is my table containing advantages, disadvantages, examples, and rat
 |---|---|---|---|---|---|---|---|
 |Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips. For Example:  | Material from security vendors who sell security services, hardware, or software. For Example:  | IT staff recommendations or newsletters. For Example:  | college classes or a workshop conducted by a local computer vendor. For Example: CYBR-1100  | A Family Member/Friend thaty could reccomend security tips.  | Your own personal opinion/experience.  |
 | Advantages | Unbiased, Solely Providing Security-Based Articles  | Provide Security Tips  |   |   |   |   |   |
-| Disatvanatges  |   |   |   |   |   | They could give you unsafe tips.  | You may not know everything!  |
+| Disatvanatges  | Can overlook ethical dimensions of security threats.  | Due to being consumer-based, they are not entirely security focused.  | They can only give you information on hardware they sell.  | You cannot have one on one conversation and troubleshooting with them.  | Your course may not give you all of the information needed on specific security nneds. | They could give you unsafe tips.  | You may not know everything!  |
 | Rating 1-7  | 7  | 3  | 4  | 6  | 5  | 1  | 2  |
