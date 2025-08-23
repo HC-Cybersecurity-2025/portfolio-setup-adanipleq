@@ -18,6 +18,6 @@ Listed below is my table containing advantages, disadvantages, examples, and rat
 |Source | Security Content  | Consumer Content  | Vendor Content  | Security Experts  | Direct Instruction  | Family & Friends  | Personal  |
 |---|---|---|---|---|---|---|---|
 |Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips  |   |   |   |   |   |
-| Advantages |   |   |   |   |   |   |   |
+| Advantages | Unbiased, Solely Providing Security-Based Articles  |   |   |   |   |   |   |
 | Disatvanatges  |   |   |   |   |   |   |   |
-| Rating  |   |   |   |   |   |   |   |
+| Rating 1-7  | 7  | 3  | 4  | 5  | 6  | 1  | 2  |
