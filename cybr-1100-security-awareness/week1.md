@@ -22,3 +22,6 @@ Listed below is my table containing advantages, disadvantages, examples, and rat
 | Advantages | Unbiased, Solely Providing Security-Based Articles.  | Provide Security Tips To Consumers.  | Teach you security awareness based on products you purchase from them.  | Experts in their fields, can provide expert advice.  | Give you one on one feedback and consultation while you learn.  | You can always reach out to a friend or family about security issues.  | You can make decisions based on personal experiences and opinions. |
 | Disadvantages  | Can overlook ethical dimensions of security threats.  | Due to being consumer-based, they are not entirely security focused.  | They can only give you information on products they sell.  | You cannot have one on one conversation and troubleshooting with them.  | Your course may not give you all of the information needed on specific security needs. | They could give you unsafe tips.  | You may not know everything!  |
 | Rating 1-7  | 7  | 3  | 4  | 6  | 5  | 1  | 2  |
+
+**Artifacts**
+Link from case project- https://docs.google.com/document/d/1eHeHCXMLR8nBuI5vx-7sWOGJ0juBRWi8Jlq-8xmw1sk/edit?usp=sharing
