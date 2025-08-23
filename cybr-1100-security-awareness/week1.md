@@ -15,9 +15,9 @@ I did not use AI.
 
 **CASE PROJECT 1-3 Sources of Security information**
 Listed below is my table containing advantages, disadvantages, examples, and rating sources of security information.
-|Source | Security Content  | Consumer Content  | Vendor Content  | Security Experts  | Direct Instruction  | Family & Friends  | Personal  |
+|Sources | Security Content  | Consumer Content  | Vendor Content  | Security Experts  | Direct Instruction  | Family & Friends  | Personal  |
 |---|---|---|---|---|---|---|---|
-|Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips. For Example:  | Material from security vendors who sell security services, hardware, or software. For Example:  | IT staff recommendations or newsletters  |   |   |   |
+|Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips. For Example:  | Material from security vendors who sell security services, hardware, or software. For Example:  | IT staff recommendations or newsletters. For Example:  | college classes or a workshop conducted by a local computer vendor. For Example: CYBR-1100  | A Family Member/Friend thaty could reccomend security tips.  | Your own personal opinion/experience.  |
 | Advantages | Unbiased, Solely Providing Security-Based Articles  | Provide Security Tips  |   |   |   |   |   |
-| Disatvanatges  |   |   |   |   |   |   |   |
+| Disatvanatges  |   |   |   |   |   | They could give you unsafe tips.  | You may not know everything!  |
 | Rating 1-7  | 7  | 3  | 4  | 6  | 5  | 1  | 2  |
