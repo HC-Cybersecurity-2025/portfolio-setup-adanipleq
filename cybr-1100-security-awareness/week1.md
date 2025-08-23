@@ -18,6 +18,6 @@ Listed below is my table containing advantages, disadvantages, examples, and rat
 |Source |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 |Example |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+| Advantages |   |   |   |   |   |   |   |
+| Disatvanatges  |   |   |   |   |   |   |   |
+| Rating  |   |   |   |   |   |   |   |
