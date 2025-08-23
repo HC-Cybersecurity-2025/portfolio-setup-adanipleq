@@ -17,7 +17,7 @@ I did not use AI.
 Listed below is my table containing advantages, disadvantages, examples, and rating sources of security information.
 |Source | Security Content  | Consumer Content  | Vendor Content  | Security Experts  | Direct Instruction  | Family & Friends  | Personal  |
 |---|---|---|---|---|---|---|---|
-|Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips  |   |   |   |   |   |
-| Advantages | Unbiased, Solely Providing Security-Based Articles  |   |   |   |   |   |   |
+|Example | Unbiased Online/Printed Articles. For Example:  | Consumer-Based Magazines/Broadcasts Not Devoted To Security But Provide End-User Tips. For Example:  | Material from security vendors who sell security services, hardware, or software. For Example:  | IT staff recommendations or newsletters  |   |   |   |
+| Advantages | Unbiased, Solely Providing Security-Based Articles  | Provide Security Tips  |   |   |   |   |   |
 | Disatvanatges  |   |   |   |   |   |   |   |
-| Rating 1-7  | 7  | 3  | 4  | 5  | 6  | 1  | 2  |
+| Rating 1-7  | 7  | 3  | 4  | 6  | 5  | 1  | 2  |
